@@ -1,6 +1,6 @@
 # Django Password Generator
 
-Django Password Generator is a web application that helps users create strong, secure, and customizable passwords. Built using Django, this project demonstrates core web development concepts such as views, forms, templates, and routing.
+This is my first Project. Django Password Generator is a web application that helps users create strong, secure, and customizable passwords. Built using Django, this project demonstrates core web development concepts such as views, forms, templates, and routing.
 
 # Features
 
@@ -32,4 +32,4 @@ cd password_generator
 python manage.py runserver
 Open http://127.0.0.1:8000 in your browser.
 
-This is my first Project. It is used generate password by choosing option. it is done with Django
+
