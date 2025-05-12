@@ -7,18 +7,18 @@ Features
 Generate random passwords
 Choose password length
  Include or exclude:
-   Uppercase letters
-   Lowercase letters
-   Numbers
-   Special characters
+   Uppercase letters,
+   Lowercase letters,
+   Numbers,
+   Special characters.
 
 Simple and user-friendly interface
 
 Tech Stack
 
-Python 3.x
-Django 4.x
-HTML and CSS (Bootstrap optional)
+Python 3.x,
+Django 4.x,
+HTML and CSS.
 
 How to Run Locally
 
